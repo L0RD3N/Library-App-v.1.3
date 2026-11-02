@@ -1,0 +1,611 @@
+C:\Users\Elev\Documents\Bataie\Library\bin\Debug\Library.exe.config
+C:\Users\Elev\Documents\Bataie\Library\bin\Debug\Library.exe
+C:\Users\Elev\Documents\Bataie\Library\bin\Debug\Library.pdb
+C:\Users\Elev\Documents\Bataie\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+C:\Users\Elev\Documents\Bataie\Library\obj\Debug\Library.Login.resources
+C:\Users\Elev\Documents\Bataie\Library\obj\Debug\Library.Properties.Resources.resources
+C:\Users\Elev\Documents\Bataie\Library\obj\Debug\Library.Register.resources
+C:\Users\Elev\Documents\Bataie\Library\obj\Debug\Library.csproj.GenerateResource.cache
+C:\Users\Elev\Documents\Bataie\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\Elev\Documents\Bataie\Library\obj\Debug\Library.exe
+C:\Users\Elev\Documents\Bataie\Library\obj\Debug\Library.pdb
+C:\Users\Elev\Documents\Bataie\Library-v.02\Library\bin\Debug\Library.exe.config
+C:\Users\Elev\Documents\Bataie\Library-v.02\Library\bin\Debug\Library.exe
+C:\Users\Elev\Documents\Bataie\Library-v.02\Library\bin\Debug\Library.pdb
+C:\Users\Elev\Documents\Bataie\Library-v.02\Library\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Elev\Documents\Bataie\Library-v.02\Library\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Elev\Documents\Bataie\Library-v.02\Library\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Elev\Documents\Bataie\Library-v.02\Library\bin\Debug\OpenAI.dll
+C:\Users\Elev\Documents\Bataie\Library-v.02\Library\bin\Debug\System.Buffers.dll
+C:\Users\Elev\Documents\Bataie\Library-v.02\Library\bin\Debug\System.ClientModel.dll
+C:\Users\Elev\Documents\Bataie\Library-v.02\Library\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Elev\Documents\Bataie\Library-v.02\Library\bin\Debug\System.Memory.Data.dll
+C:\Users\Elev\Documents\Bataie\Library-v.02\Library\bin\Debug\System.Memory.dll
+C:\Users\Elev\Documents\Bataie\Library-v.02\Library\bin\Debug\System.Net.ServerSentEvents.dll
+C:\Users\Elev\Documents\Bataie\Library-v.02\Library\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Elev\Documents\Bataie\Library-v.02\Library\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Elev\Documents\Bataie\Library-v.02\Library\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Elev\Documents\Bataie\Library-v.02\Library\bin\Debug\System.Text.Json.dll
+C:\Users\Elev\Documents\Bataie\Library-v.02\Library\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Elev\Documents\Bataie\Library-v.02\Library\bin\Debug\System.ValueTuple.dll
+C:\Users\Elev\Documents\Bataie\Library-v.02\Library\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Elev\Documents\Bataie\Library-v.02\Library\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Elev\Documents\Bataie\Library-v.02\Library\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Elev\Documents\Bataie\Library-v.02\Library\bin\Debug\OpenAI.xml
+C:\Users\Elev\Documents\Bataie\Library-v.02\Library\bin\Debug\System.Buffers.xml
+C:\Users\Elev\Documents\Bataie\Library-v.02\Library\bin\Debug\System.ClientModel.xml
+C:\Users\Elev\Documents\Bataie\Library-v.02\Library\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Elev\Documents\Bataie\Library-v.02\Library\bin\Debug\System.Memory.xml
+C:\Users\Elev\Documents\Bataie\Library-v.02\Library\bin\Debug\System.Memory.Data.xml
+C:\Users\Elev\Documents\Bataie\Library-v.02\Library\bin\Debug\System.Net.ServerSentEvents.xml
+C:\Users\Elev\Documents\Bataie\Library-v.02\Library\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Elev\Documents\Bataie\Library-v.02\Library\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Elev\Documents\Bataie\Library-v.02\Library\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Elev\Documents\Bataie\Library-v.02\Library\bin\Debug\System.Text.Json.xml
+C:\Users\Elev\Documents\Bataie\Library-v.02\Library\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Elev\Documents\Bataie\Library-v.02\Library\bin\Debug\System.ValueTuple.xml
+C:\Users\Elev\Documents\Bataie\Library-v.02\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+C:\Users\Elev\Documents\Bataie\Library-v.02\Library\obj\Debug\Library.Biblioteca.resources
+C:\Users\Elev\Documents\Bataie\Library-v.02\Library\obj\Debug\Library.Login.resources
+C:\Users\Elev\Documents\Bataie\Library-v.02\Library\obj\Debug\Library.Properties.Resources.resources
+C:\Users\Elev\Documents\Bataie\Library-v.02\Library\obj\Debug\Library.Register.resources
+C:\Users\Elev\Documents\Bataie\Library-v.02\Library\obj\Debug\Library.csproj.GenerateResource.cache
+C:\Users\Elev\Documents\Bataie\Library-v.02\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\Elev\Documents\Bataie\Library-v.02\Library\obj\Debug\Library.csproj.Up2Date
+C:\Users\Elev\Documents\Bataie\Library-v.02\Library\obj\Debug\Library.exe
+C:\Users\Elev\Documents\Bataie\Library-v.02\Library\obj\Debug\Library.pdb
+C:\Users\Elev\Documents\Bataie\Library-v.021\Library-v.02\Library\bin\Debug\Library.exe.config
+C:\Users\Elev\Documents\Bataie\Library-v.021\Library-v.02\Library\bin\Debug\Library.exe
+C:\Users\Elev\Documents\Bataie\Library-v.021\Library-v.02\Library\bin\Debug\Library.pdb
+C:\Users\Elev\Documents\Bataie\Library-v.021\Library-v.02\Library\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Elev\Documents\Bataie\Library-v.021\Library-v.02\Library\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Elev\Documents\Bataie\Library-v.021\Library-v.02\Library\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Elev\Documents\Bataie\Library-v.021\Library-v.02\Library\bin\Debug\OpenAI.dll
+C:\Users\Elev\Documents\Bataie\Library-v.021\Library-v.02\Library\bin\Debug\System.Buffers.dll
+C:\Users\Elev\Documents\Bataie\Library-v.021\Library-v.02\Library\bin\Debug\System.ClientModel.dll
+C:\Users\Elev\Documents\Bataie\Library-v.021\Library-v.02\Library\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Elev\Documents\Bataie\Library-v.021\Library-v.02\Library\bin\Debug\System.Memory.Data.dll
+C:\Users\Elev\Documents\Bataie\Library-v.021\Library-v.02\Library\bin\Debug\System.Memory.dll
+C:\Users\Elev\Documents\Bataie\Library-v.021\Library-v.02\Library\bin\Debug\System.Net.ServerSentEvents.dll
+C:\Users\Elev\Documents\Bataie\Library-v.021\Library-v.02\Library\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Elev\Documents\Bataie\Library-v.021\Library-v.02\Library\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Elev\Documents\Bataie\Library-v.021\Library-v.02\Library\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Elev\Documents\Bataie\Library-v.021\Library-v.02\Library\bin\Debug\System.Text.Json.dll
+C:\Users\Elev\Documents\Bataie\Library-v.021\Library-v.02\Library\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Elev\Documents\Bataie\Library-v.021\Library-v.02\Library\bin\Debug\System.ValueTuple.dll
+C:\Users\Elev\Documents\Bataie\Library-v.021\Library-v.02\Library\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Elev\Documents\Bataie\Library-v.021\Library-v.02\Library\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Elev\Documents\Bataie\Library-v.021\Library-v.02\Library\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Elev\Documents\Bataie\Library-v.021\Library-v.02\Library\bin\Debug\OpenAI.xml
+C:\Users\Elev\Documents\Bataie\Library-v.021\Library-v.02\Library\bin\Debug\System.Buffers.xml
+C:\Users\Elev\Documents\Bataie\Library-v.021\Library-v.02\Library\bin\Debug\System.ClientModel.xml
+C:\Users\Elev\Documents\Bataie\Library-v.021\Library-v.02\Library\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Elev\Documents\Bataie\Library-v.021\Library-v.02\Library\bin\Debug\System.Memory.xml
+C:\Users\Elev\Documents\Bataie\Library-v.021\Library-v.02\Library\bin\Debug\System.Memory.Data.xml
+C:\Users\Elev\Documents\Bataie\Library-v.021\Library-v.02\Library\bin\Debug\System.Net.ServerSentEvents.xml
+C:\Users\Elev\Documents\Bataie\Library-v.021\Library-v.02\Library\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Elev\Documents\Bataie\Library-v.021\Library-v.02\Library\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Elev\Documents\Bataie\Library-v.021\Library-v.02\Library\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Elev\Documents\Bataie\Library-v.021\Library-v.02\Library\bin\Debug\System.Text.Json.xml
+C:\Users\Elev\Documents\Bataie\Library-v.021\Library-v.02\Library\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Elev\Documents\Bataie\Library-v.021\Library-v.02\Library\bin\Debug\System.ValueTuple.xml
+C:\Users\Elev\Documents\Bataie\Library-v.021\Library-v.02\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+C:\Users\Elev\Documents\Bataie\Library-v.021\Library-v.02\Library\obj\Debug\Library.exe.config
+C:\Users\Elev\Documents\Bataie\Library-v.021\Library-v.02\Library\obj\Debug\Library.Biblioteca.resources
+C:\Users\Elev\Documents\Bataie\Library-v.021\Library-v.02\Library\obj\Debug\Library.Login.resources
+C:\Users\Elev\Documents\Bataie\Library-v.021\Library-v.02\Library\obj\Debug\Library.Properties.Resources.resources
+C:\Users\Elev\Documents\Bataie\Library-v.021\Library-v.02\Library\obj\Debug\Library.Register.resources
+C:\Users\Elev\Documents\Bataie\Library-v.021\Library-v.02\Library\obj\Debug\Library.csproj.GenerateResource.cache
+C:\Users\Elev\Documents\Bataie\Library-v.021\Library-v.02\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\Elev\Documents\Bataie\Library-v.021\Library-v.02\Library\obj\Debug\Library.csproj.Up2Date
+C:\Users\Elev\Documents\Bataie\Library-v.021\Library-v.02\Library\obj\Debug\Library.exe
+C:\Users\Elev\Documents\Bataie\Library-v.021\Library-v.02\Library\obj\Debug\Library.pdb
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\Library.exe.config
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\Library.exe
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\Library.pdb
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\CSharpToJsonSchema.dll
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\Microsoft.Bcl.Numerics.dll
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\Microsoft.Extensions.Diagnostics.dll
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\Microsoft.Extensions.Logging.Configuration.dll
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\Microsoft.Extensions.Logging.Console.dll
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\Microsoft.Extensions.Logging.Debug.dll
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\Microsoft.Extensions.Logging.EventLog.dll
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\Microsoft.Extensions.Logging.EventSource.dll
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\System.Buffers.dll
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\System.ClientModel.dll
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\System.IO.Pipelines.dll
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\System.Memory.Data.dll
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\System.Memory.dll
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\System.Net.ServerSentEvents.dll
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\System.Numerics.Tensors.dll
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\System.Numerics.Vectors.dll
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\System.Text.Encodings.Web.dll
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\System.Text.Json.dll
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\System.Threading.Channels.dll
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\CSharpToJsonSchema.xml
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\Microsoft.Bcl.Numerics.xml
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\Microsoft.Extensions.Configuration.CommandLine.xml
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.xml
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\Microsoft.Extensions.Configuration.UserSecrets.xml
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\Microsoft.Extensions.Diagnostics.xml
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\Microsoft.Extensions.Diagnostics.Abstractions.xml
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\Microsoft.Extensions.Logging.Configuration.xml
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\Microsoft.Extensions.Logging.Console.xml
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\Microsoft.Extensions.Logging.Debug.xml
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\Microsoft.Extensions.Logging.EventLog.xml
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\Microsoft.Extensions.Logging.EventSource.xml
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\System.Buffers.xml
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\System.ClientModel.xml
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\System.IO.Pipelines.xml
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\System.Memory.xml
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\System.Memory.Data.xml
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\System.Net.ServerSentEvents.xml
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\System.Numerics.Tensors.xml
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\System.Numerics.Vectors.xml
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\System.Text.Encodings.Web.xml
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\System.Text.Json.xml
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\System.Threading.Channels.xml
+D:\Atestat Luca C#\Library-v.09\Library\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Atestat Luca C#\Library-v.09\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+D:\Atestat Luca C#\Library-v.09\Library\obj\Debug\Library.Biblioteca.resources
+D:\Atestat Luca C#\Library-v.09\Library\obj\Debug\Library.Login.resources
+D:\Atestat Luca C#\Library-v.09\Library\obj\Debug\Library.Properties.Resources.resources
+D:\Atestat Luca C#\Library-v.09\Library\obj\Debug\Library.Register.resources
+D:\Atestat Luca C#\Library-v.09\Library\obj\Debug\Library.csproj.GenerateResource.cache
+D:\Atestat Luca C#\Library-v.09\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+D:\Atestat Luca C#\Library-v.09\Library\obj\Debug\Library.csproj.Up2Date
+D:\Atestat Luca C#\Library-v.09\Library\obj\Debug\Library.exe
+D:\Atestat Luca C#\Library-v.09\Library\obj\Debug\Library.pdb
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\Library.exe.config
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\Library.exe
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\Library.pdb
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\CSharpToJsonSchema.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\Microsoft.Bcl.Numerics.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\Microsoft.Extensions.Diagnostics.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\Microsoft.Extensions.Logging.Console.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\System.Buffers.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\System.ClientModel.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\System.IO.Pipelines.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\System.Memory.Data.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\System.Memory.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\System.Net.ServerSentEvents.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\System.Numerics.Tensors.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\System.Text.Json.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\System.Threading.Channels.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\CSharpToJsonSchema.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\Microsoft.Bcl.Numerics.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\Microsoft.Extensions.Configuration.CommandLine.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\Microsoft.Extensions.Configuration.UserSecrets.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\Microsoft.Extensions.Diagnostics.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\Microsoft.Extensions.Diagnostics.Abstractions.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\Microsoft.Extensions.Logging.Configuration.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\Microsoft.Extensions.Logging.Console.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\Microsoft.Extensions.Logging.Debug.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\Microsoft.Extensions.Logging.EventLog.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\Microsoft.Extensions.Logging.EventSource.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\System.Buffers.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\System.ClientModel.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\System.IO.Pipelines.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\System.Memory.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\System.Memory.Data.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\System.Net.ServerSentEvents.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\System.Numerics.Tensors.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\System.Text.Json.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\System.Threading.Channels.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\obj\Debug\Library.exe.config
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\obj\Debug\Library.Biblioteca.resources
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\obj\Debug\Library.Login.resources
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\obj\Debug\Library.Properties.Resources.resources
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\obj\Debug\Library.Register.resources
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\obj\Debug\Library.csproj.GenerateResource.cache
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\obj\Debug\Library.csproj.Up2Date
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\obj\Debug\Library.exe
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.1\Library\obj\Debug\Library.pdb
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\obj\Debug\Library.exe.config
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\obj\Debug\Library.exe
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\obj\Debug\Library.pdb
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\Library.exe.config
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\Library.exe
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\Library.pdb
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\CSharpToJsonSchema.dll
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\Microsoft.Bcl.Numerics.dll
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\Microsoft.Extensions.Diagnostics.dll
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\System.Buffers.dll
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\System.ClientModel.dll
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\System.Memory.Data.dll
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\System.Memory.dll
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\System.Net.ServerSentEvents.dll
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\System.Numerics.Tensors.dll
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\System.Text.Json.dll
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\System.Threading.Channels.dll
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\CSharpToJsonSchema.xml
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\Microsoft.Bcl.Numerics.xml
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\Microsoft.Extensions.Configuration.CommandLine.xml
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.xml
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\Microsoft.Extensions.Configuration.UserSecrets.xml
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\Microsoft.Extensions.Diagnostics.xml
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\Microsoft.Extensions.Diagnostics.Abstractions.xml
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\Microsoft.Extensions.Logging.Configuration.xml
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\Microsoft.Extensions.Logging.Console.xml
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\Microsoft.Extensions.Logging.Debug.xml
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\Microsoft.Extensions.Logging.EventLog.xml
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\Microsoft.Extensions.Logging.EventSource.xml
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\System.Buffers.xml
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\System.ClientModel.xml
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\System.Memory.xml
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\System.Memory.Data.xml
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\System.Net.ServerSentEvents.xml
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\System.Numerics.Tensors.xml
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\System.Text.Json.xml
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\System.Threading.Channels.xml
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\obj\Debug\Library.Biblioteca.resources
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\obj\Debug\Library.Login.resources
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\obj\Debug\Library.Properties.Resources.resources
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\obj\Debug\Library.Register.resources
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\obj\Debug\Library.csproj.GenerateResource.cache
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\Elev\Downloads\Library-v.1.2\Library-v.1.2\Library\obj\Debug\Library.csproj.Up2Date
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\Library.exe.config
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\Library.exe
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\Library.pdb
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\CSharpToJsonSchema.dll
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\Microsoft.Bcl.Numerics.dll
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Diagnostics.dll
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\System.Buffers.dll
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\System.ClientModel.dll
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\System.Memory.Data.dll
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\System.Memory.dll
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\System.Net.ServerSentEvents.dll
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\System.Numerics.Tensors.dll
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\System.Text.Json.dll
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\System.Threading.Channels.dll
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\CSharpToJsonSchema.xml
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\Microsoft.Bcl.Numerics.xml
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Configuration.CommandLine.xml
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.xml
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Configuration.UserSecrets.xml
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Diagnostics.xml
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Diagnostics.Abstractions.xml
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Logging.Configuration.xml
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Logging.Console.xml
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Logging.Debug.xml
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Logging.EventLog.xml
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Logging.EventSource.xml
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\System.Buffers.xml
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\System.ClientModel.xml
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\System.Memory.xml
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\System.Memory.Data.xml
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\System.Net.ServerSentEvents.xml
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\System.Numerics.Tensors.xml
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\System.Text.Json.xml
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\System.Threading.Channels.xml
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\obj\Debug\Library.exe.config
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\obj\Debug\Library.Biblioteca.resources
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\obj\Debug\Library.Login.resources
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\obj\Debug\Library.Properties.Resources.resources
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\obj\Debug\Library.Register.resources
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\obj\Debug\Library.csproj.GenerateResource.cache
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\obj\Debug\Library.csproj.Up2Date
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\obj\Debug\Library.exe
+C:\Users\Elev\Documents\Bataie\Library-v.1.3\Library-v.1.3\Library\obj\Debug\Library.pdb
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\Library.exe.config
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\Library.exe
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\Library.pdb
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\CSharpToJsonSchema.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\Microsoft.Bcl.Numerics.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Diagnostics.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Logging.Console.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\System.Buffers.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\System.ClientModel.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\System.IO.Pipelines.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\System.Memory.Data.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\System.Memory.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\System.Net.ServerSentEvents.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\System.Numerics.Tensors.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\System.Text.Json.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\System.Threading.Channels.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\CSharpToJsonSchema.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\Microsoft.Bcl.Numerics.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Configuration.CommandLine.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Configuration.UserSecrets.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Diagnostics.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Diagnostics.Abstractions.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Logging.Configuration.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Logging.Console.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Logging.Debug.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Logging.EventLog.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Logging.EventSource.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\System.Buffers.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\System.ClientModel.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\System.IO.Pipelines.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\System.Memory.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\System.Memory.Data.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\System.Net.ServerSentEvents.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\System.Numerics.Tensors.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\System.Text.Json.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\System.Threading.Channels.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\obj\Debug\Library.exe.config
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\obj\Debug\Library.Biblioteca.resources
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\obj\Debug\Library.Login.resources
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\obj\Debug\Library.Properties.Resources.resources
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\obj\Debug\Library.Register.resources
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\obj\Debug\Library.csproj.GenerateResource.cache
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\obj\Debug\Library.csproj.Up2Date
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\obj\Debug\Library.exe
+C:\Users\User\Documents\Programming Projects\C#\Library-v.1.3\Library\obj\Debug\Library.pdb
