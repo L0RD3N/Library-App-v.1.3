@@ -1,0 +1,18 @@
+Don Quijote;Miguel de Cervantes;Clasic
+Alice's Adventures in Wonderland;Lewis Carroll;Fantezie
+The Adventures of Huckleberry Finn;Mark Twain;Clasic
+The Lord of the Rings;J.R.R. Tolkien;Fantezie
+1984;George Orwell;Distopic
+The Great Gatsby;F. Scott Fitzgerald;Clasic
+Pride and Prejudice;Jane Austen;Dragoste
+To Kill a Mockingbird;Harper Lee;Clasic
+War and Peace;Leo Tolstoy;Clasic
+The Hobbit;J.R.R. Tolkien;Fantezie
+And Then There Were None;Agatha Christie;Crimă
+Atomic Habits;James Clear;Psihologie
+The Psychology of Money;Morgan Housel;Psihologie
+The Housemaid's Secret;Freida McFadden;Thriller
+It's Not Her;Mary Kubica;Thriller
+The Woman in Me;Britney Spears;Autobiografie
+Dungeon Crawler Carl;Matt Dinniman;Fantezie
+The Hundred Years' War on Palestine;Rashid Khalidi;Istoric
